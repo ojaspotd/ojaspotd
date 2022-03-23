@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ojas Potdar
-- 👀 I’m interested in developing script in Shell/Bash/Java
+- 👀 I’m interested in developing script in Shell/Bash/Python
 - 🌱 I’m currently learning Shell/Bash and Python scripting
 - 📫 How to reach me ojas.potdar30@gmail.com
 
